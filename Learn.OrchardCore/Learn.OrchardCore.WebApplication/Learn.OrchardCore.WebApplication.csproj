@@ -8,4 +8,8 @@
     <PackageReference Include="OrchardCore.Application.Mvc.Targets" Version="1.0.0-rc2-13450" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Learn.OrchardCore.SimpleClassLibrary\Learn.OrchardCore.SimpleClassLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
